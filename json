@@ -1,17 +1,15 @@
-com.tachiyoumimangareadertips1.taikiapps
-
 {
 
     "ads": 
       {
-        "max_native_small": "",
-        "Bannerapplovine" : "",
-        "Interapplovine": "",
-        "max_native_normal": "",
-      	"rewordapplovine": "",
-        "PromotedrImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "Bannerapplovine" : "7a9194c65284d7a0",
+        "Interapplovine": "109cedd67371dfa3",
+        "max_native_normal": "e9e683e6ea7b4760",
+        "max_native_small": "2169bac284f90135",
+      	"rewordapplovine": "c4f955448b785187",
+        "PromotedrImg" : "",
         "appfutur_Url" : "https://www.google.com",
-        "PromotedrUrl" : "https://www.google.com"
+        "PromotedrUrl" : "https://play.google.com/store/apps/details?id=com.RachidOuxen.tachiyomiappreadermangatips"
       },
 
 
